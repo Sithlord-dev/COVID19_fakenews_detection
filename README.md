@@ -11,3 +11,14 @@ The [Fighting an Infodemic: COVID-19 Fake News Dataset](https://arxiv.org/abs/20
 | accuracy     |    0.935981 | 0.935981 |   0.935981 |    0.935981 |
 | macro avg    |    0.936172 | 0.935513 |   0.935796 | 2140        |
 | weighted avg |    0.936025 | 0.935981 |   0.935957 | 2140        |
+
+
+Source:
+
+@inproceedings{patwa2021overview,
+title={Overview of CONSTRAINT 2021 Shared Tasks: Detecting English COVID-19 Fake News and Hindi Hostile Posts },
+author={Parth Patwa and Mohit Bhardwaj and Vineeth Guptha and Gitanjali Kumari and Shivam Sharma and Srinivas PYKL and Amitava Das and Asif Ekbal and Shad Akhtar and Tanmoy Chakraborty},
+booktitle = {Proceedings of the First Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Situation ({CONSTRAINT})},
+year = {2021},
+publisher = {Springer},
+}
