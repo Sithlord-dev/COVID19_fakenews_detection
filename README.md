@@ -1,6 +1,6 @@
 # COVID19 fakenews detection using NLP
 
-One of the sharde tasks of CONSTRAINT 2021's first Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Si​tuation, was about  "*Fighting an Infodemic: COVID-19 Fake News*". Here is my modest participation at the Codalab's competition [COVID19 Fake News Detection in English](https://competitions.codalab.org/competitions/26655#learn_the_details)
+One of the shared tasks of CONSTRAINT 2021's first Workshop on Combating Online Hostile Posts in Regional Languages during Emergency Si​tuation, was about  "*Fighting an Infodemic: COVID-19 Fake News*". Here is my modest participation at the Codalab's competition [COVID19 Fake News Detection in English](https://competitions.codalab.org/competitions/26655#learn_the_details)
 
 The [Fighting an Infodemic: COVID-19 Fake News Dataset](https://arxiv.org/abs/2011.03327) contains tweets along with their associated binary labels: `real` for real/verified COVID19 related informations and `fake` for hoaxes/fake news. 
 
