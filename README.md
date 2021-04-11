@@ -4,7 +4,7 @@ One of the shared tasks of CONSTRAINT 2021's first Workshop on Combating Online 
 
 The [Fighting an Infodemic: COVID-19 Fake News Dataset](https://arxiv.org/abs/2011.03327) contains tweets along with their associated binary labels: `real` for real/verified COVID19 related informations and `fake` for hoaxes/fake news. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/COVID19_fakenews_detection_using_NLP/blob/main/Covid19_fakenews_detection_using_NLP.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sithlord-dev/COVID19_fakenews_detection/blob/main/Covid19_fakenews_detection_using_NLP.ipynb)
 
 I used Logistic regression with some fine tunning to achieved an accuracy of 94% with the following score: 
 
